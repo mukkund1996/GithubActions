@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(
-    name='githubactions',
+    name='cicdsample',
     version='1.0.0',
     description='blablabla',
     project_description="It is exactly what you think it is.",
